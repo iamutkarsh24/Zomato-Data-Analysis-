@@ -32,7 +32,6 @@ new data analyst who is excited to build this dashboard and perform the followin
 ## Tools ⚒️
 - Python for the cleaning and the visualization of the insights.
 - Canva for the presentation and interpretation of those insights.
-- 
 ## Conclusion 🚀
 The Zomato Data Analytics Project successfully leveraged restaurant and customer data to identify key performance indicators (KPIs) 
 and derive actionable insights. By analyzing dining patterns, user votes, and ratings, the project provided a comprehensive understanding of 
